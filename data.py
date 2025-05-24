@@ -1,0 +1,1 @@
+Ошибка при чтении: [Errno 2] No such file or directory: '/mnt/data/data.py'
